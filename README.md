@@ -12,7 +12,7 @@ by crawling GitLab's API documentation using [this project](https://github.com/e
 
 As crawling web pages will never get to 100% accuracy, let alone the coverage.  
 These descriptions need lots of contribution to perfect.  
-_Contributing guidelined coming soon._
+_Contributing guidelines coming soon._
 
 Also, GitLab doesn't have any official API client.
 These API descriptions play important role
