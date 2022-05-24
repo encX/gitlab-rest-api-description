@@ -1,4 +1,4 @@
-# GitLab REST API descrption
+# GitLab REST API description
 OpenAPI/Swagger description for [GitLab REST API](https://docs.gitlab.com/ee/api/api_resources.html)  
 
 Inspired by [GitHub's official REST API descption](https://github.com/github/rest-api-description)  
