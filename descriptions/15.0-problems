@@ -1,0 +1,258 @@
+ Semantic error at paths./projects/{id}/issues/{issue_iid}/award_emoji
+Declared path parameter "issue_iid" needs to be defined as a path parameter at either the path or operation level
+Jump to line 461
+Semantic error at paths./projects/{id}/issues/{issue_iid}/award_emoji/{award_id}
+Declared path parameter "issue_iid" needs to be defined as a path parameter at either the path or operation level
+Jump to line 513
+Semantic error at paths./projects/{id}/registry/repositories/{repository_id}/tags.get.operationId
+Operations must have unique operationIds.
+Jump to line 2062
+Semantic error at paths./projects/{id}/deploy_keys/{key_id}
+Declared path parameter "key_id" needs to be defined within every operation in the path (missing in "put"), or moved to the path-level parameters object
+Jump to line 2414
+Semantic error at paths./projects/{id}/deployments/{deployment_id}/merge_requests
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 2859
+Semantic error at paths./projects/{id}/deployments/{deployment_id}/merge_requests
+Declared path parameter "deployment_id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 2859
+Semantic error at paths./features/{name}
+Declared path parameter "name" needs to be defined within every operation in the path (missing in "delete"), or moved to the path-level parameters object
+Jump to line 5253
+Semantic error at paths./geo_nodes/{id}
+Declared path parameter "id" needs to be defined within every operation in the path (missing in "get"), or moved to the path-level parameters object
+Jump to line 5466
+Semantic error at paths./geo_nodes/{id}/repair
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 5522
+Semantic error at paths./geo_nodes/{id}/status
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 5552
+Semantic error at paths./groups/{id}/iterations
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 6199
+Semantic error at paths./groups/{id}/ldap_sync
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 7878
+Semantic error at paths./projects/{id}/integrations
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8351
+Semantic error at paths./projects/{id}/integrations/asana
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8366
+Semantic error at paths./projects/{id}/integrations/assembla
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8402
+Semantic error at paths./projects/{id}/integrations/bamboo
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8438
+Semantic error at paths./projects/{id}/integrations/bugzilla
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8474
+Semantic error at paths./projects/{id}/integrations/buildkite
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8510
+Semantic error at paths./projects/{id}/integrations/campfire
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8546
+Semantic error at paths./projects/{id}/integrations/datadog
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8582
+Semantic error at paths./projects/{id}/integrations/unify-circuit
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8618
+Semantic error at paths./projects/{id}/integrations/webex-teams
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8654
+Semantic error at paths./projects/{id}/integrations/custom-issue-tracker
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8690
+Semantic error at paths./projects/{id}/integrations/discord
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8726
+Semantic error at paths./projects/{id}/integrations/drone-ci
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8762
+Semantic error at paths./projects/{id}/integrations/emails-on-push
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8798
+Semantic error at paths./projects/{id}/integrations/ewm
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8834
+Semantic error at paths./projects/{id}/integrations/confluence
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8870
+Semantic error at paths./projects/{id}/integrations/external-wiki
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8906
+Semantic error at paths./projects/{id}/integrations/flowdock
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8942
+Semantic error at paths./projects/{id}/integrations/github
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 8978
+Semantic error at paths./projects/{id}/integrations/hangouts-chat
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9014
+Semantic error at paths./projects/{id}/integrations/irker
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9050
+Semantic error at paths./projects/{id}/integrations/jira
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9086
+Semantic error at paths./projects/{id}/integrations/slack-slash-commands
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9122
+Semantic error at paths./projects/{id}/integrations/mattermost-slash-commands
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9162
+Semantic error at paths./projects/{id}/integrations/packagist
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9198
+Semantic error at paths./projects/{id}/integrations/pipelines-email
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9234
+Semantic error at paths./projects/{id}/integrations/pivotaltracker
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9270
+Semantic error at paths./projects/{id}/integrations/prometheus
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9306
+Semantic error at paths./projects/{id}/integrations/pushover
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9342
+Semantic error at paths./projects/{id}/integrations/redmine
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9378
+Semantic error at paths./projects/{id}/integrations/slack
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9414
+Semantic error at paths./projects/{id}/integrations/microsoft-teams
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9450
+Semantic error at paths./projects/{id}/integrations/mattermost
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9486
+Semantic error at paths./projects/{id}/integrations/teamcity
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9522
+Semantic error at paths./projects/{id}/integrations/jenkins
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9558
+Semantic error at paths./projects/{id}/integrations/jenkins-deprecated
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9594
+Semantic error at paths./projects/{id}/integrations/mock-ci
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9625
+Semantic error at paths./projects/{id}/integrations/youtrack
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 9661
+Semantic error at paths./projects/{id}/issues/{issue_iid}/todo.post.operationId
+Operations must have unique operationIds.
+Jump to line 10862
+Semantic error at paths./projects/{id}/iterations
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 11716
+Semantic error at paths./projects/{id}/ci/lint
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 12513
+Semantic error at paths./groups/{id}/members.post.operationId
+Operations must have unique operationIds.
+Jump to line 12749
+Semantic error at paths./projects/{id}/merge_requests/{merge_request_iid}/approvals.get.operationId
+Operations must have unique operationIds.
+Jump to line 13356
+Semantic error at paths./projects/{id}/merge_requests/{merge_request_iid}/todo.post.operationId
+Operations must have unique operationIds.
+Jump to line 14747
+Semantic error at paths./projects/{id}/merge_requests/{merge_request_iid}/time_stats.get.operationId
+Operations must have unique operationIds.
+Jump to line 14956
+Semantic error at paths./environments/{id}/metrics_dashboard/annotations/
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 15014
+Semantic error at paths./projects/{id}/milestones.post.operationId
+Operations must have unique operationIds.
+Jump to line 15142
+Semantic error at paths./projects/{id}/milestones/{milestone_id}.get.operationId
+Operations must have unique operationIds.
+Jump to line 15164
+Semantic error at paths./projects/{id}/milestones/{milestone_id}.put.operationId
+Operations must have unique operationIds.
+Jump to line 15186
+Semantic error at paths./projects/{id}/milestones/{milestone_id}/issues.get.operationId
+Operations must have unique operationIds.
+Jump to line 15236
+Semantic error at paths./projects/{id}/milestones/{milestone_id}/merge_requests.get.operationId
+Operations must have unique operationIds.
+Jump to line 15259
+Semantic error at paths./projects/{id}/milestones/{milestone_id}/burndown_events.get.operationId
+Operations must have unique operationIds.
+Jump to line 15305
+Semantic error at paths./projects/{id}/packages.get.operationId
+Operations must have unique operationIds.
+Jump to line 16052
+Semantic error at paths./groups/{id}/packages.get.operationId
+Operations must have unique operationIds.
+Jump to line 16116
+Semantic error at paths./projects/{id}/variables.post.operationId
+Operations must have unique operationIds.
+Jump to line 18116
+Semantic error at paths./projects/{id}/variables/{key}.get.operationId
+Operations must have unique operationIds.
+Jump to line 18142
+Semantic error at paths./projects/{id}/variables/{key}.put.operationId
+Operations must have unique operationIds.
+Jump to line 18174
+Semantic error at paths./projects/{id}/variables/{key}.delete.operationId
+Operations must have unique operationIds.
+Jump to line 18205
+Semantic error at paths./projects/{id}/snippets/{snippet_id}/user_agent_detail.get.operationId
+Operations must have unique operationIds.
+Jump to line 18544
+Semantic error at paths./projects/{id}/remote_mirrors
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 20524
+Semantic error at paths./projects/{id}/remote_mirrors/{mirror_id}
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 20560
+Semantic error at paths./projects/{id}/remote_mirrors/{mirror_id}
+Declared path parameter "mirror_id" needs to be defined within every operation in the path (missing in "get"), or moved to the path-level parameters object
+Jump to line 20560
+Semantic error at paths./projects/{id}/repository/changelog
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 20869
+Semantic error at paths./projects/{id}/runners/reset_registration_token
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 21792
+Semantic error at paths./groups/{id}/runners/reset_registration_token
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 21803
+Semantic error at paths./snippets.post.operationId
+Operations must have unique operationIds.
+Jump to line 22263
+Semantic error at paths./snippets/{id}.put.operationId
+Operations must have unique operationIds.
+Jump to line 22303
+Semantic error at paths./snippets/{id}.delete.operationId
+Operations must have unique operationIds.
+Jump to line 22328
+Semantic error at paths./snippets/{id}/files/{ref}/{file_path}/raw.get.operationId
+Operations must have unique operationIds.
+Jump to line 22362
+Semantic error at paths./snippets/{id}/user_agent_detail.get.operationId
+Operations must have unique operationIds.
+Jump to line 22418
+Semantic error at paths./users/{id}/ban
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 23813
+Semantic error at paths./users/{id}/unban
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 23824
+Semantic error at paths./users/{id}/reject
+Declared path parameter "id" needs to be defined as a path parameter at either the path or operation level
+Jump to line 23910
+Semantic error at paths./projects/{id}/merge_requests/{merge_request_iid}/visual_review_discussions.post.operationId
+Operations must have unique operationIds.
+Jump to line 24076
